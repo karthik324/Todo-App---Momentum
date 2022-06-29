@@ -1,6 +1,6 @@
 # momentum_sample
 
-A new Flutter project.
+A simple todo app with flutter and managed state with momentum
 
 ## Getting Started
 
